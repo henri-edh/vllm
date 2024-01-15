@@ -15,7 +15,7 @@ jobs:
 
     - name: Fetch upstream changes
       run: |
-        git remote add upstream https://github.com/nod-ai/SHARK.git
+        git remote add upstreamhttps://github.com/vllm-project/vllm.git
 
     - name: Merge upstream changes
       run: |
